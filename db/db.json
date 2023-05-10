@@ -78,28 +78,6 @@
     }
   ],
   "burgers": [
-    {
-      "nome": "Jonathan",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "Rayssa",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Em produção",
-      "id": 2
-    }
+   
   ]
 }
